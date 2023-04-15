@@ -1,7 +1,7 @@
 %% INPUTS
 %Below input will be specific to you storage location
-preprocess_dir = 'C:\Users\Mike\Desktop\Yeo_Networks\example'; %location of channel_mnicoords.csv
-yeodir = 'C:\Users\Mike\Desktop\Yeo_Networks'; %location of Yeo network info
+preprocess_dir = 'C:\Users\Mike\Desktop\Yeo_Networks\NIRSprobe2YeoNetworks\example'; %location of channel_mnicoords.csv
+yeodir = 'C:\Users\Mike\Desktop\Yeo_Networks\NIRSprobe2YeoNetworks'; %location of Yeo network info
 nparc = 42; %Number of channels
 YeoNum = 7; %7 or 17 networks
 
